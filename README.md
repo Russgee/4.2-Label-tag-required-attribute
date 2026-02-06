@@ -2,7 +2,7 @@
 
 ### Part 1
 1. Add the following attributes on the form tag: `action="#" method="POST"`
-2. Add the text `required` at the end of the input tag that has type="password".
+2. Add the text `required` at the end of the input tag that has `type="password"`.
 3. Open your preview in a full screen.
 4. Click the Submit button without entering any text in any of the form fields. What do you notice happens?
 
